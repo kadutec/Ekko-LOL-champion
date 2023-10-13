@@ -27,6 +27,6 @@ Para visualizar a página, você só precisa de um navegador da web atualizado. 
 ## Como Usar
 
 1. Clone o repositório para o seu ambiente de desenvolvimento:
-- git clone https://github.com/seu-nome/seu-repositorio.git
+- git clone https://github.com/kadutec/Ekko-LOL-champion.git
 2. Abra o arquivo index.html no seu navegador da web.
 3. Explore as informações sobre Ekko e suas habilidades na página.
